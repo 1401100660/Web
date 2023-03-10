@@ -12,3 +12,6 @@ function hi(){
   foreach($i in ls){echo $i}
 ```
 
+  ```python
+  print('hey there')
+  ```
